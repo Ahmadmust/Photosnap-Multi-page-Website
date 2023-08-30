@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13f2a27a.css",
+    "main.js": "/static/js/main.5228399e.js",
+    "static/js/787.6c9dccbb.chunk.js": "/static/js/787.6c9dccbb.chunk.js",
+    "static/media/beautiful-stories.jpg": "/static/media/beautiful-stories.6c250ef542724b88d6ea.jpg",
+    "static/media/moon-of-appalacia.jpg": "/static/media/moon-of-appalacia.9413077d7589f869e5ba.jpg",
+    "static/media/cityscapes.jpg": "/static/media/cityscapes.333e560070c093aa40d3.jpg",
+    "static/media/architecturals.jpg": "/static/media/architecturals.a3f9dc371f2eff2e697d.jpg",
+    "static/media/create-and-share.jpg": "/static/media/create-and-share.3fa4a0483d66ead87742.jpg",
+    "static/media/designed-for-everyone.jpg": "/static/media/designed-for-everyone.217f9c316663935a2dd0.jpg",
+    "static/media/hero.jpg": "/static/media/hero.d39d87520bcc5b500fa9.jpg",
+    "static/media/mountains.jpg": "/static/media/mountains.bfd60073ca981f34bd97.jpg",
+    "static/media/bg-beta.jpg": "/static/media/bg-beta.31d5fc317a698d93b5ac.jpg",
+    "static/media/18-days-voyage.jpg": "/static/media/18-days-voyage.e97725e333649ee7387a.jpg",
+    "static/media/footer-logo.svg": "/static/media/footer-logo.34f3316a2397b2d83d4c735e8c8b4399.svg",
+    "static/media/logo.svg": "/static/media/logo.a44763db2338dbc834bf6d743a1f813f.svg",
+    "static/media/embed.svg": "/static/media/embed.78c81ce39eed44ef9f71cec054aa5c06.svg",
+    "static/media/custom-domain.svg": "/static/media/custom-domain.40b46c119cfb2d972911002a15937492.svg",
+    "static/media/boost-exposure.svg": "/static/media/boost-exposure.1e05bf1c651d0e434eee243e29491dc8.svg",
+    "static/media/no-limit.svg": "/static/media/no-limit.b8deb4d29340cc57f1a1b86bd7a08cc9.svg",
+    "static/media/drag-drop.svg": "/static/media/drag-drop.7716476bbc47ecc4ede7cf96a2e1d240.svg",
+    "static/media/responsive.svg": "/static/media/responsive.d5fd70c1af8c4b7303ade262961b1309.svg",
+    "static/media/instagram.svg": "/static/media/instagram.21480e89adbd97fd0773e3a2e8a3cbd3.svg",
+    "static/media/pinterest.svg": "/static/media/pinterest.af9d6c061eb90729b0d957baea99e9c0.svg",
+    "static/media/twitter.svg": "/static/media/twitter.8c975ccebaf771670b43d18c708376e4.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.d210bb87c07e3a7304b27a95c809a8e6.svg",
+    "static/media/facebook.svg": "/static/media/facebook.9a5fee2017d029404610bae7a23b8473.svg",
+    "static/media/close.svg": "/static/media/close.5121260d42c379b4895c0035730f6b2f.svg",
+    "static/media/arrow.svg": "/static/media/arrow.0af2556c5f40455b9e17841b0c653d6b.svg",
+    "static/media/check.svg": "/static/media/check.46b060c0a6f9d5931055e452d1363f6c.svg",
+    "static/media/menu.svg": "/static/media/menu.6f63088500089901892d39e305d6d6dc.svg",
+    "main.13f2a27a.css.map": "/static/css/main.13f2a27a.css.map",
+    "main.5228399e.js.map": "/static/js/main.5228399e.js.map",
+    "787.6c9dccbb.chunk.js.map": "/static/js/787.6c9dccbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f2a27a.css",
+    "static/js/main.5228399e.js"
+  ]
+}
